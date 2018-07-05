@@ -11,6 +11,6 @@ body {
         background-image: url(https://pbs.twimg.com/media/C0dON6FXcAAVdb2.jpg:large);
       }
       h3 {
-        text-align: center;
-        color: white;
-      }
+    color: white;
+    text-align: center;
+}
